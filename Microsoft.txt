@@ -1,3 +1,20 @@
 Microsoft
 
+Microsoft je amerièka softverska tvrtka. Osnovali su je 1975. godine Bill Gates i Paul Allen. Osnovna djelatnost tvrtke je razvoj osnovnog raèunalnog softvera poput operacijskih sustava, razvojnih alata, uredskih programa, baza podataka, itd.
+
 Prvi Microsoftov proizvod bio je Basic prevodilac (eng. interpreter) za prvo komercijalno osobno raèunalo Altair 8800. Godine 1977. proizveli su i program-prevodilac (eng. compiler) za programski jezik Fortran. U 1978. godini, otvorili su prvi prekomorski prodajni ured u Tokyu u Japanu, a prihod od prodaje te je godine premašio milijun dolara. Godine 1979. prebacuju težište razvoja na softver za 16-bitne mikroprocesore i na njima zasnovana raèunala. Pravi poèetak uspona Microsofta u vodeæu softversku tvrtku poèinje 1981, kada je IBM izbacio na tržište osobno raèunalo IBM PC. Raèunalo je koristilo Microsoftov operacijski sustav MS-DOS 1.0 i Microsoftove programske jezike Cobol, Basic i Pascal . Microsoft je zadržao autorska prava na sav navedeni softver pa je rast popularosti IBM PC raèunala i njegovih kopija izravno pridonio rastu Microsofta.
+
+Neki Microsoftovi proizvodi
+Microsoft Windows je operacijski sustav za raèunala zasnovana na IBM PC standardu. Postoje brojne verzije za razlièite namjene, od osobnih raèunala do mrežnih poslužitelja (servera). Zbog planetarne raširenosti i popularnosti kopija IBM PC raèunala, operacijski sustavi Windows smatraju se glavnim Microsoftovim proizvodom.
+Internet Explorer je internetski preglednik kojeg je razvila tvrtka Microsoft, te sastavni dio Microsoft Windows operativnih sustava. Od 1999. godine, je najrašireniji internetski preglednik.
+Windows Media Player je program za preslušavanje i pregled medijskih sadržaja.
+Microsoft Office je softver za uredski rad. Ukljuèuje program za obradu teksta Word, tablièni kalkulator Excel, uredsku bazu podataka Access, program za izradu prezentacija Power Point te alat za izradu jednostavnih web stranica Front Page.
+Microsoft Visual Studio je serija Microsoftovih alata za razvitak softvera. Radi se o korisnièkim suèeljima (namijenjenim ugodnijem radu programera) povezanim s jeziènim procesorima koji podržavaju rad s raznim programskim jezicima. Najèešæi su Microsoft Visual Basic, C++ i C#. Visual Studio podržava i dizajnerski pristup izradi programskog koda - onaj u kojemu kod ne treba pisati, nego se programiranje može obavljati rasporeðivanjem grafièkih ikona koje simboliziraju dijelove koda pri èemu se upisuju samo neke osnovne znaèajke (eng. Properites) tih dijelova koda.
+Microsoft SQL Server jest vrlo moæna i suvremena relacijska baza podataka. Osim samog pogona baze (eng. database engine), obuhvaæa dodatne alate: konzolu za upravljanje bazom Enterprise Manager, konzolu za upite Query Analyzer te nadzorni alat Profiler. Microsoft Desktop Engine (MSDE) jest besplatna verzija pogona baze koja ne obuhvaæa dodatne alate. Za MSDE su razvijeni neki besplatni programi nalik dodatnim alatima Microsoft SQL Servera.
+Pocket PC je oznaka softversko-hardverskog standarda za vrstu ruènih raèunala ili dlanovnike. Veliki dio Pocket PC dlanovnika pokreæe Microsoftov Windows CE operacijski sustav, verzija Windowsa posebno pisanog za ruèna raèunala. Pocket PC dlanovnici imaju i svoje posebne verzije ostalog Microsoftovog softvera, od posebno prilagoðenog Officea do dlanovnièke verzije SQL Servera zvane Microsoft SQL Server CE.
+
+Tržište i utjecaj
+Microsoft danas drži znatan dio tržišta operacijskih sustava, internetskih pretraživaèa, uredskog softvera i razvojnih alata.
+Na tržištu operacijskih sustava namijenjenim osobnim raèunalima, Windowsi drži daleko najveæi dio tržišnog udjela. Na tržištu operacijskih sustava namijenjenih poslužiteljima (serveri), Microsoft je pak suoèen sa snažnom konkurencijom drugih operacijskih sustava.
+Microsoftovog internetski pretraživaè Internet Explorer raširen je prije svega zato što dolazi upakiran u novije verzije Windows operacijskih sustava. Takva vrsta isporuke rezultirala je optužbom Microsofta za monopolizam na amerièkom sudu.
+Microsoft je dominantan i na tržištu uredskih programa sa svojim paketom Microsoft Office.
